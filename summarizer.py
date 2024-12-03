@@ -2,7 +2,7 @@ import openai
 import json
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "api key"
 
 def summarize_article(title, content):
     """Summarizes a single article using OpenAI."""
