@@ -1,67 +1,54 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "[Removed]"
-        },
-        "author": null,
-        "title": "[Removed]",
-        "description": "[Removed]",
-        "url": "https://removed.com",
-        "urlToImage": null,
-        "publishedAt": "2024-11-19T18:33:13Z",
-        "content": "[Removed]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "[Removed]"
-        },
-        "author": null,
-        "title": "[Removed]",
-        "description": "[Removed]",
-        "url": "https://removed.com",
-        "urlToImage": null,
-        "publishedAt": "2024-11-06T14:00:54Z",
-        "content": "[Removed]"
-    },
-    {
-        "source": {
             "id": "the-verge",
             "name": "The Verge"
         },
-        "author": "Umar Shakir",
-        "title": "FCC passes auto safety spectrum rules",
-        "description": "FCC has finalized Cellular Vehicle-to-Everying (C-V2X) technology spectrum rules by evolving the 5.9GHz band for Intelligent Transportation Systems (ITS).",
-        "url": "https://www.theverge.com/2024/11/21/24302733/fcc-cv2x-cellular-vehicle-everything-spectrum-rules-final",
-        "urlToImage": "https://cdn.vox-cdn.com/thumbor/LkXbMw6BwFq1t-UwdzV1c5-RJBQ=/0x0:682x366/1200x628/filters:focal(341x183:342x184)/cdn.vox-cdn.com/uploads/chorus_asset/file/24035514/Fcyv3EnWQAEQFMm.png",
-        "publishedAt": "2024-11-21T23:19:00Z",
-        "content": "FCC passes auto safety spectrum rules\r\nFCC passes auto safety spectrum rules\r\n / Cellular Vehicle-to-Everying technology will operate in the 5.9 GHz band.\r\nByUmar Shakir, a news writer fond of the el\u2026 [+1712 chars]"
+        "author": "Wes Davis",
+        "title": "Meta\u2019s mixed-reality attempt at a Wii Sports knockoff is coming",
+        "description": "Home Sports is a cartoonish collection of games like bowling, badminton, and mini-golf, that can be played on Meta\u2019s Quest 3 and 3S headsets.",
+        "url": "https://www.theverge.com/2024/11/25/24305847/meta-quest-home-sports-vr-mr-tennis-bowling-hockey-game",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/E2RoDalncTnPdUrncx4kP01lnYw=/0x0:1440x810/1200x628/filters:focal(720x405:721x406)/cdn.vox-cdn.com/uploads/chorus_asset/file/25756939/Home_Sports.jpg",
+        "publishedAt": "2024-11-25T21:17:49Z",
+        "content": "Metas mixed-reality attempt at a Wii Sports knockoff is coming\r\nMetas mixed-reality attempt at a Wii Sports knockoff is coming\r\n / Home Sports isnt Nintendos simplistic sports franchise, but it might\u2026 [+1158 chars]"
     },
     {
         "source": {
-            "id": "wired",
-            "name": "Wired"
+            "id": null,
+            "name": "BBC News"
         },
-        "author": "Meredith Whittaker",
-        "title": "The Beginning of the End of Big Tech",
-        "description": "From politicians to VC firms, everyone is falling out of love with the massive, money-oriented, global technology titans. In their place, we have the chance to build something open and trustworthy.",
-        "url": "https://www.wired.com/story/the-beginning-of-the-end-of-big-tech/",
-        "urlToImage": "https://media.wired.com/photos/673f641cc8e4183a9d1d5376/191:100/w_1280,c_limit/WW25-Technology-MW-Carmen-Casado.jpg",
-        "publishedAt": "2024-11-26T12:05:00Z",
-        "content": "Next year will be Big Techs finale. Critique of Big Tech is now common sense, voiced by a motley spectrum that unites opposing political parties, mainstream pundits, and even tech titans such as the \u2026 [+2281 chars]"
+        "author": null,
+        "title": "Gary Lineker steps down as Sports Personality host",
+        "description": "The news comes a day after confirmation that he will leave the BBC's Match of the Day.",
+        "url": "https://www.bbc.com/news/articles/cvg4888xj06o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3237/live/f5826280-a1da-11ef-bdf5-b7cb2fa86e10.jpg",
+        "publishedAt": "2024-11-13T16:27:08Z",
+        "content": "Gary Lineker has stepped down as co-presenter of the BBC's Sports Personality of the Year, following the news that he will leave Match of the Day, the corporation has confirmed.\r\nThe annual ceremony \u2026 [+1309 chars]"
     },
     {
         "source": {
-            "id": "wired",
-            "name": "Wired"
+            "id": null,
+            "name": "Gizmodo.com"
         },
-        "author": "Henri Robbins",
-        "title": "What Are Hall Effect Sensors and How Do They Work? (2024)",
-        "description": "More and more keyboards and video game controllers employ Hall effect sensors, but what exactly is this technology? We break it down.",
-        "url": "https://www.wired.com/story/what-is-hall-effect/",
-        "urlToImage": "https://media.wired.com/photos/6727e6b5c3d084259b2a931f/191:100/w_1280,c_limit/Hall-Effect-Sensor-Keyboard-Closeup-Reviewer-Photo-SOURCE-Henri-Robbins-(2).jpg",
-        "publishedAt": "2024-11-04T14:00:00Z",
-        "content": "Hall effect sensors are everywhere right now. Keyboards, game controllers, and DIY kits use them for more precise inputs. But with any newly popular device, it can be easy to immediately jump onto th\u2026 [+2901 chars]"
+        "author": "Gizmodo Deals",
+        "title": "Released In September, EA Sports FC 25 Is Now 50% Off For Black Friday On Amazon",
+        "description": "The most popular football game is at a record low price",
+        "url": "https://gizmodo.com/released-in-september-ea-sports-fc-25-is-now-50-off-for-black-friday-on-amazon-2000522858",
+        "urlToImage": "https://gizmodo.com/app/uploads/2024/11/ea-sport-fc25.jpg",
+        "publishedAt": "2024-11-11T12:40:08Z",
+        "content": "EA Sports FC 25 which is the highly anticipated successor to the FIFA series is currently available at an incredible 50% discount on both Xbox and PlayStation platforms via Amazon. This early Black F\u2026 [+1908 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "2024-11-20T22:49:22Z",
+        "content": "[Removed]"
     }
 ]
