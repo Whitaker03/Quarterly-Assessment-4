@@ -8,7 +8,7 @@ import os
 load_dotenv()
 
 # NewsAPI key and endpoint
-news_api_key = "a0472e861fa0408e90af628adcf311ce"  # Replace with your NewsAPI key
+news_api_key = "newapikey"  # Replace with your NewsAPI key
 news_url = "https://newsapi.org/v2/everything"
 
 # Streamlit app configuration

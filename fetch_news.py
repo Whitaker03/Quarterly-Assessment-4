@@ -3,7 +3,7 @@ import json
 import os
 
 # Replace with your NewsAPI key
-NEWS_API_KEY = 'a0472e861fa0408e90af628adcf311ce'
+NEWS_API_KEY = 'newsapikey'
 
 def is_valid_url(url):
     """Check if the URL is reachable and valid."""

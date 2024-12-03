@@ -4,9 +4,9 @@ from email.mime.text import MIMEText
 import json
 
 # Email configuration
-SENDER_EMAIL = "samschooltech@gmail.com"  # Your email address
-SENDER_PASSWORD = "p4302214"  # Your email password (Use app password if 2FA is enabled)
-RECIPIENT_EMAIL = "wwhitaker1016@gmail.com"  # Recipient email address
+SENDER_EMAIL = "senderemail@gmail.com"  # Your email address
+SENDER_PASSWORD = "sender_password"  # Your email password (Use app password if 2FA is enabled)
+RECIPIENT_EMAIL = "recipient_email"  # Recipient email address
 
 # Load the articles (assuming you have a 'articles.json' with articles and summaries)
 def load_articles_from_file(filename='articles.json'):
